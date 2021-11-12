@@ -19,8 +19,5 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 
 
 ## Here's my Github Stats:
-
-
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=lehoangan2906"></a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehoangan2906&show_icons=true&theme=radical)
 
