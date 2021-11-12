@@ -20,5 +20,6 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 
 
 ## Here's my Github Stats:
-("https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&theme=gotham&layout=compact")  (https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2906)](https://github.com/anuraghazra/github-readme-stats)
+
 
