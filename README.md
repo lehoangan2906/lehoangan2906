@@ -10,7 +10,7 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 - 👯 I’m looking to collaborate on Recurrent Neural Network
 
 
-## Find me around the web 🌏🌎🌍 : <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/" ><img align="left" width="150" height="180" src = "https://github.com/lehoangan2906/lehoangan2906/blob/main/giphy.gif"><img align="left" width="150" height="180" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&theme=gotham&layout=compact"></a>
+## Find me around the web 🌏🌎🌍 : <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/" ><img align="left" width="150" height="180" src = "https://github.com/lehoangan2906/lehoangan2906/blob/main/giphy.gif"></a>
 
 
  - codewars <a href = "https://www.codewars.com/users/lehoangan2906">: lehoangan2906 </a> 🧑🏻‍💻
@@ -18,3 +18,4 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
  - Instagram <a href = "https://www.instagram.com/__lehoangan/">: lehoangan </a> 🌊
  - linkedin <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/">: Edward (An Le) Hoang </a> 🙋🏻
 
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&theme=gotham&layout=compact"></a>
