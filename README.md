@@ -18,9 +18,9 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 - linkedin <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/">: Edward (An Le) Hoang </a> 🙋🏻
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehoangan2906)](https://github.com/anuraghazra/github-readme-stats) 
+<[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehoangan2906)](https://github.com/anuraghazra/github-readme-stats) >
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&theme=gotham&layout=compact)](https://github.com/lehoangan2906/lehoangan2906)
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&theme=gotham&layout=compact (https://github.com/lehoangan2906/lehoangan2906)>
 </p>
