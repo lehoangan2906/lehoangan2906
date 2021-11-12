@@ -12,7 +12,7 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 
 ## Find me around the web 🌏🌎🌍 : <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/" ><img align="left" width="150" height="150" src = "https://github.com/lehoangan2906/lehoangan2906/blob/main/giphy.gif"></a>
 
-- <a href= "https://www.facebook.com/le.hoangan.182940/">Facebook : 
-- Instagram : <a href = "https://www.instagram.com/__lehoangan/">
-- codewars : <a href = "https://www.codewars.com/users/lehoangan2906">
-- linkedin: <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/">
+- My Facebook <a href= "https://www.facebook.com/le.hoangan.182940/">: Le Hoang An (Edward Hoang)
+- Instagram <a href = "https://www.instagram.com/__lehoangan/">: lehoangan
+- codewars <a href = "https://www.codewars.com/users/lehoangan2906">: lehoangan2906
+- linkedin <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/">: Edward (An Le) Hoang
