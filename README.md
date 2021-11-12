@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/lehoangan2906/lehoangan2906/blob/main/E87E61C8-44D1-4A8A-9689-FB207228DAC3_1_105_c.jpeg?raw=true" alt = "banner that says Edward (An Le) Hoang - sophpmore at FPT university, Aritificial Intelligence researcher, Competitive Programming lover">
-I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence from FPT University. My skills are broad in Python, C++, Java, Data Science and Artificial Intelligence. I am particularly interested in Natural Language Processing and Reinforcement Learning.
+I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence from FPT University. My skills are broad in Python, C++, Java, Data Science and Artificial Intelligence. I am particularly interested in Natural Language Processing and Reinforcement Learning.<br />
 
 
 - 🔭 I’m currently a student at FPT university
