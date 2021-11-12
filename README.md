@@ -19,4 +19,4 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 
 ### Here's my github stats:
 
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&theme=gotham&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&theme=gotham&layout=compact)
