@@ -15,7 +15,7 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
  - codewars <a href = "https://www.codewars.com/users/lehoangan2906">: lehoangan2906 </a> 🧑🏻‍💻
  - My Facebook <a href= "https://www.facebook.com/le.hoangan.182940/">: Le Hoang An (Edward Hoang) </a> 🙎🏻‍♂️
  - Instagram <a href = "https://www.instagram.com/__lehoangan/">: lehoangan </a> 🌊
- - Portfolio <a href = "https://lehoangan.vercel.app/">: Le Hoang An </a> ⌨🖥
+ - Portfolio <a href = "https://lehoangan.vercel.app/">: Le Hoang An </a> 🖥
  - linkedin <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/">: Edward (An Le) Hoang </a> 🙋🏻<br />
 
 --------------------------------------------------------------------------------------------
@@ -25,4 +25,5 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 
 #### And my most used languages stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
