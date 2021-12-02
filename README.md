@@ -24,7 +24,7 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 --------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------
-### My Wakatime stats:
+#### My Wakatime stats:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 --------------------------------------------------------------------------------------------
 
