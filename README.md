@@ -21,12 +21,7 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 --------------------------------------------------------------------------------------------
 #### Here's my Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehoangan2906&show_icons=true&theme=radical)
---------------------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------------------
-#### My Wakatime stats:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lehoangan2906)](https://github.com/anuraghazra/github-readme-stats)
---------------------------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------
 #### And my most used languages stats:
