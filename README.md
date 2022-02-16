@@ -25,7 +25,7 @@ I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence 
 
 --------------------------------------------------------------------------------------------
 #### And my most used languages stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906)](https://github.com/lehoangan2906/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 --------------------------------------------------------------------------------------------
 
 
