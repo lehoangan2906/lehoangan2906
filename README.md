@@ -5,7 +5,7 @@
 I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence from FPT University. My skills are broad in Python, C++, Java, Data Science and Artificial Intelligence. I am particularly interested in Natural Language Processing and Reinforcement Learning.
 
 - 🔭 I’m currently a student at FPT university
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Recurrent Neural Network
 
 
