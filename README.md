@@ -1,4 +1,4 @@
-### Hi, I'm Edward Hoang 🤚🏻 💻
+### Hi, I'm Edward Hoang 💻
 
 
 <img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/from-vnoi-with-love.svg" alt = "banner that says Edward (An Le) Hoang - sophpmore at FPT university, Aritificial Intelligence researcher, Competitive Programming lover">
