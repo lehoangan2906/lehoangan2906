@@ -1,7 +1,7 @@
 ### Hi, I'm Edward Hoang (darkksilver) 💻
 
 
-<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/from-vnoi-with-love.svg" alt = "banner that says Edward (An Le) Hoang - sophpmore at FPT university, Aritificial Intelligence researcher, Competitive Programming lover">
+<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/IMG_1295.JPG" alt = "banner that says Edward (An Le) Hoang - sophpmore at FPT university, Aritificial Intelligence researcher, Competitive Programming lover">
 I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence from FPT University. My skills are broad in Python, C++, Java, Data Science and Artificial Intelligence. I am particularly interested in Natural Language Processing and Reinforcement Learning.
 
 - 🔭 I’m currently a student at FPT university
