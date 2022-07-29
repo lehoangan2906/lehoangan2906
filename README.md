@@ -1,4 +1,4 @@
-### Hi, I'm Edward Hoang (darkksilver) 💻
+### Hi, I'm Edward Hoang (darksilver) 💻
 
 
 <img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/IMG_1295.JPG" alt = "banner that says Edward (An Le) Hoang - sophpmore at FPT university, Aritificial Intelligence researcher, Competitive Programming lover">
