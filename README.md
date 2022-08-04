@@ -1,17 +1,13 @@
 ### Hi, I'm Edward Hoang (darksilver) 💻
 
 
-<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/IMG_1295.JPG" alt = "banner that says Edward (An Le) Hoang - sophpmore at FPT university, Aritificial Intelligence researcher, Competitive Programming lover">
-I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence from FPT University. My skills are broad in Python, C++, Java, Data Science and Artificial Intelligence. I am particularly interested in Natural Language Processing and Reinforcement Learning.
+<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/IMG_1295.JPG">
 
-- 🔭 I’m currently a student at FPT university
-- 🌱 I’m currently learning Computer Vision
-- 👯 I’m looking to collaborate on Recurrent Neural Network
+I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT University as well as a competitive programmer, who is really intrigued by analyzing algorithms and data structures problems. Over the years, I've gain some experience in C++, Python, Java, Data structures & Algorithms, bash, git and, most importantly, Deep Learning. At this juncture, Quantum Machine Learning is really fascinating to me and I'm trying my best to extend my knowledge about this field.
 
+## Find me around the web: <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/" ></a><br />
 
-## Find me around the web 🌏🌎🌍 : <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/" ></a><br />
-
-
+ - If you're intrigued by Data Structures and Algorithms, there's a community of people having the same interest with you (I'm also there):  <a hred = "https://discord.gg/b7KrXfpp"> From VNOI with <3 </a>
  - codewars <a href = "https://www.codewars.com/users/lehoangan2906">: lehoangan2906 </a> 🧑🏻‍💻
  - My Facebook <a href= "https://www.facebook.com/le.hoangan.182940/">: Le Hoang An (Edward Hoang) </a> 🙎🏻‍♂️
  - Instagram <a href = "https://www.instagram.com/__lehoangan/">: lehoangan </a> 🌊
