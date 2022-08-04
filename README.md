@@ -20,7 +20,7 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
 -----------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------
-#### And my most used languages stats:
+#### And which languages I've been using over the time:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan2906&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --------------------------------------------------------------------------------------------
 
