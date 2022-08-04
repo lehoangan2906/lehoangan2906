@@ -7,7 +7,7 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
 
 ## Find me around the web: <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/" ></a><br />
 
- - If you're intrigued by Data Structures and Algorithms, there's a community of people having the same interest with you (I'm also there)<a href = "https://discord.gg/b7KrXfpp">: From VNOI with love </a>
+ - If you're intrigued by Data Structures and Algorithms, there's a community of people having the same interest with you (I'm also there)<a href = "https://discord.gg/b7KrXfpp">: From VNOI with love </a> ❤️ 
  - codewars <a href = "https://www.codewars.com/users/lehoangan2906">: lehoangan2906 </a> 🧑🏻‍💻
  - My Facebook <a href= "https://www.facebook.com/le.hoangan.182940/">: Le Hoang An (Edward Hoang) </a> 🙎🏻‍♂️
  - Instagram <a href = "https://www.instagram.com/__lehoangan/">: lehoangan </a> 🌊
