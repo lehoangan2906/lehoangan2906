@@ -1,6 +1,6 @@
 ### Ciao! I'm Edward Hoang (darkksilver) 💻
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png"/>
 
 I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT University as well as a competitive programmer, who is really intrigued by analyzing algorithms and data structures problems. Over the years, I've gained some experience in C++, Python, Java, Data structures & Algorithms, bash, git, and, most importantly, Deep Learning. At this juncture, Quantum Machine Learning is really fascinating to me and I'm trying my best to extend my knowledge in this field.
