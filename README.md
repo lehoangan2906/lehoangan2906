@@ -11,7 +11,7 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
  - My Facebook: <a href= "https://www.facebook.com/le.hoangan.182940/">Le Hoang An</a> 🙎🏻‍♂️
  - Instagram: <a href = "https://www.instagram.com/__lehoangan/">lehoangan </a> 🌊
  - Portfolio: <a href = "https://lehoangan.vercel.app/">Le Hoang An </a> 🖥
- - Linkedin: <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/">(Edward) Le Hoang </a> 🙋🏻<br />
+ - Linkedin: <a href = "https://www.linkedin.com/in/an-le-hoang/">(Edward) Le Hoang </a> 🙋🏻<br />
  
 --------------------------------------------------------------------------------------------
 #### Profile statistics:
