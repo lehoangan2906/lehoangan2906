@@ -1,7 +1,7 @@
 ### Ciao! I'm Edward Hoang (darkksilver) 💻
 
 
-<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png">
+<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png" height="auto" width="200" style="border-radius:50%>
 
 I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT University as well as a competitive programmer, who is really intrigued by analyzing algorithms and data structures problems. Over the years, I've gained some experience in C++, Python, Java, Data structures & Algorithms, bash, git, and, most importantly, Deep Learning. At this juncture, Quantum Machine Learning is really fascinating to me and I'm trying my best to extend my knowledge in this field.
 
@@ -13,10 +13,10 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
  - Instagram: <a href = "https://www.instagram.com/__lehoangan/">lehoangan </a> 🌊
  - Portfolio: <a href = "https://lehoangan.vercel.app/">Le Hoang An </a> 🖥
  - Linkedin: <a href = "https://www.linkedin.com/in/edward-hoang-31bb34220/">(Edward) Le Hoang </a> 🙋🏻<br />
- - 
+ 
 --------------------------------------------------------------------------------------------
 #### Profile statistics:
-![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lehoangan2906&theme=radical&show_icons=true)
+![GitHub Profile Summary stats](https://githb-profile-summary-cards.vercel.app/api/cards/profile-details?username=lehoangan2906&theme=radical&show_icons=true)
 
 --------------------------------------------------------------------------------------------
 #### Here's my Github stats:
