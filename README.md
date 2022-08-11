@@ -1,6 +1,4 @@
 ### Ciao! I'm Edward Hoang (darkksilver) 💻
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="an-le-hoang-31bb34220" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/an-le-hoang-31bb34220?trk=profile-badge">An Le Hoang</a></div>
               
 <img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png"/>
 
