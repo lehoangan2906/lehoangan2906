@@ -6,7 +6,7 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
 
 --------------------------------------------------------------------------------------------
 #### Profile statistics:
-![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lehoangan2906&theme=radical&show_icons=true)
+![GitHub Profile Summary stats]http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={lehoangan2906}&theme={dracula}
 --------------------------------------------------------------------------------------------
 
 
