@@ -1,4 +1,4 @@
-### Ciao! I'm Edward Hoang 💻
+### Ciao! Io sono Edward Hoang 💻
               
 <img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png"/>
 
