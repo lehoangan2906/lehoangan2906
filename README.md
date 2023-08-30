@@ -6,18 +6,18 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
 
 --------------------------------------------------------------------------------------------
 #### Profile statistics:
-![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={lehoangan2906}&theme={dracula})
+![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lehoangan2906&theme=dracula)
 --------------------------------------------------------------------------------------------
 
 
 --------------------------------------------------------------------------------------------
 #### Here's my Github stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehoangan2906&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lehoangan2906&theme=dracula)
 -----------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------
 #### And which languages I've been using over the time:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangan290&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lehoangan2906&theme=dracula)
 --------------------------------------------------------------------------------------------
 
 
