@@ -17,7 +17,7 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
 
 --------------------------------------------------------------------------------------------
 #### And which languages I've been using over the time:
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lehoangan2906&theme=dracula&exclude=JavaScript, Jupyter Notebook)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lehoangan2906&theme=dracula&exclude=JavaScript)
 --------------------------------------------------------------------------------------------
 
 
