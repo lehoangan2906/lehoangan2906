@@ -5,8 +5,8 @@
 I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT University as well as Micromaster Program in Statistics and Data Science at MIT. Over the years, I've gained some experience in Python, C++, Java, Data structures & Algorithms, bash, git, and, most importantly, Deep Learning. At this juncture, Quantitative trading using Machine Learning is really fascinating to me and I'm trying my best to extend my knowledge in this field.
 
 --------------------------------------------------------------------------------------------
-Practice with me on codewars.com
-[!image](https://www.codewars.com/users/lehoangan2906/badges/large)
+###Practice with me on [codewars](codewars.com)!:
+![image](https://www.codewars.com/users/lehoangan2906/badges/large)
 
 --------------------------------------------------------------------------------------------
 #### Profile statistics:
