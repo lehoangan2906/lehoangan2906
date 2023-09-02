@@ -9,7 +9,7 @@ I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT Univer
 ![image](https://www.codewars.com/users/lehoangan2906/badges/large)
 
 --------------------------------------------------------------------------------------------
-#### Profile statistics:
+#### My profile statistics:
 ![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lehoangan2906&theme=dracula)
 --------------------------------------------------------------------------------------------
 
