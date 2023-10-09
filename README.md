@@ -2,7 +2,9 @@
               
 <img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png"/>
 
-I'm a junior taking a bachelor's degree in Artificial Intelligence at FPT University as well as Micromaster Program in Statistics and Data Science at MIT. Over the years, I've gained some experiences in Python, C++, bash, git, and, most importantly, Deep Learning. My current field of interest is AI applications in Robotics.
+Currently pursuing a bachelor's degree in Artificial Intelligence at `FPT University` and engaged in the `MIT Micromaster Program` in Statistics and Data Science, I've built a solid foundation in Python, data structures, algorithms, and data analysis. Proficient in Linux, tmux, docker, and git, I thrive in collaborative work environments.
+
+My expertise lies in `Deep Learning`, with a particular interest in `robust deep learning` and `decision-making` in complex dynamical systems. Additionally, I'm enthusiastic about applying `Reinforcement Learning` to `Robotics`, and I am committed to expanding my proficiency in these domains.
 
 --------------------------------------------------------------------------------------------
 ### Practice with me on [codewars](codewars.com):
