@@ -1,6 +1,6 @@
 ### Hi there! I'm Edward 🧑🏻‍💻
               
-<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png"/>
+%<img src="https://raw.githubusercontent.com/lehoangan2906/lehoangan2906/main/Screen%20Shot%202022-08-05%20at%203.11.04%20PM.png"/>
 
 Currently pursuing a bachelor's degree in Artificial Intelligence at `FPT University` and engaged in the `MIT Micromaster Program` in Statistics and Data Science, I've built a solid foundation in Python, data structures, algorithms, and data analysis. Proficient in Linux, tmux, docker, and git, I thrive in collaborative work environments.
 
