@@ -1,18 +1,10 @@
-### Hi there! I'm Edward 🧑🏻‍💻
-              
-Currently pursuing a bachelor's degree in Artificial Intelligence at `FPT University` and engaged in the `MIT Micromaster Program` in Statistics and Data Science, I've built a solid foundation in Python, data structures, algorithms, and data analysis. Proficient in Linux, tmux, docker, and git, I thrive in collaborative work environments.
+              Hi there! Lê Hoàng An (or Edward Hoang, whichever floats your boat) at your service. At 22, I'm gearing up for my final year as an Information Technology student, but honestly, AI is where my heart truly lies. Specifically, I'm fascinated with how Reinforcement Learning can empower robots to make smart decisions, adapting and thriving in any situation. (World domination not included... mostly.) Currently, I'm putting my robot passion to the test as a DL&Robotics Intern at Viettel Aerospace Institute. This portfolio is my space to showcase my projects, explore crazy ideas, and maybe even share some (hopefully impressive) robot dance moves. Who knows, maybe we share a love for AI, learning! So come on in, let's geek out and see where the conversation takes us!
 
-My expertise lies in `Deep Learning`, with a particular interest in `robust deep learning` and `decision-making` in complex dynamical systems. Additionally, I'm enthusiastic about applying `Reinforcement Learning` to `Robotics`, and I am committed to expanding my proficiency in these domains.
-
---------------------------------------------------------------------------------------------
-### Practice with me on [codewars](codewars.com):
-![image](https://www.codewars.com/users/lehoangan2906/badges/large)
 
 --------------------------------------------------------------------------------------------
 #### My profile statistics:
 ![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lehoangan2906&theme=dracula)
 --------------------------------------------------------------------------------------------
-
 
 --------------------------------------------------------------------------------------------
 #### Here's my Github stats:
