@@ -1,7 +1,7 @@
 ### My greeting!
 
-Hi there! Lê Hoàng An (or Edward Hoang, whichever floats your boat) at your service. 
-At 22, I'm gearing up for my final year as an Information Technology student, but honestly, AI is where my heart truly lies. Specifically, I'm fascinated with how Reinforcement Learning can empower robots to make smart decisions, adapting and thriving in any situation. (World domination not included... mostly.) 
+Hi there! Lê Hoàng An (or Edward Hoang, whichever floats your boat) at your service."\n"
+At 22, I'm gearing up for my final year as an Information Technology student, but honestly, AI is where my heart truly lies. Specifically, I'm fascinated with how Reinforcement Learning can empower robots to make smart decisions, adapting and thriving in any situation. (World domination not included... mostly.)"\n"
 Currently, I'm putting my robot passion to the test as a DL&Robotics Intern at Viettel Aerospace Institute. This github profile is my space to showcase my projects, explore crazy ideas, and maybe even share some (hopefully impressive) robot dance moves. Who knows, maybe we share a love for AI, learning! So come on in, let's geek out and see where the conversation takes us!
 
 
