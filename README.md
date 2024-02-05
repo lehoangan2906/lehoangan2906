@@ -6,6 +6,8 @@ At 22, I'm gearing up for my final year as an Information Technology student, bu
 
 Currently, I'm putting my robot passion to the test as a DL&Robotics Intern at Viettel Aerospace Institute. This github profile is my space to showcase my projects, explore crazy ideas, and maybe even share some (hopefully impressive) robot dance moves. Who knows, maybe we share a love for AI, learning! So come on in, let's geek out and see where the conversation takes us!
 
+Find more about me at: [here](https://lehoangan.vercel.app/)
+
 
 --------------------------------------------------------------------------------------------
 #### My profile statistics:
